@@ -1,7 +1,5 @@
 # NUS-SDS-Datathon-Singlife
 main
-hi
-hi back
 
 
 ## Dataset Handling Guidelines
